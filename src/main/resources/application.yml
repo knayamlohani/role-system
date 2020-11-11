@@ -1,0 +1,6 @@
+server:
+  port: 9191
+  servlet:
+    contextPath: /role-system/api/v1
+  http2:
+    enabled: true

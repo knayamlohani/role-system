@@ -2,10 +2,10 @@
 
 ### SET UP
 ```
-1 git clone https://github.com/knayamlohani/friend-suggester.git
-2 cd friend-suggester
+1 git clone https://github.com/knayamlohani/role-system.git
+2 cd role-system
 3 mvn clean install
-4 java -jar target/friend-suggester-1.0.0.jar
+4 java -jar target/role-system-1.0.0.jar
 ```
 
 
